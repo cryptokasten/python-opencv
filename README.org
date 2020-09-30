@@ -1,0 +1,26 @@
+#+TITLE: Python OpenCV
+#+TAGS: cryptokasten, python, opencv, python-opencv
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
+** Package info
+
+- Github: https://github.com/skvark/opencv-python
+
+- Pypi: https://pypi.org/project/opencv-python/
+
+- Documentation: https://docs.opencv.org/master/
+
+** Install
+
+#+BEGIN_SRC sh
+pip install opencv-python
+#+END_SRC
+
+** Snippets
+
+- [[https://github.com/cryptokasten/python-opencv-open-a-base64-encoded-image][Python OpenCV: Open a Base64 encoded image]]
+
+- [[https://github.com/cryptokasten/python-opencv-save-image][Python OpenCV: Save image]]
+

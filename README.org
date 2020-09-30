@@ -18,7 +18,7 @@
 pip install opencv-python
 #+END_SRC
 
-** Snippets
+** Usage
 
 - [[https://github.com/cryptokasten/python-opencv-open-a-base64-encoded-image][Python OpenCV: Open a Base64 encoded image]]
 

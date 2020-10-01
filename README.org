@@ -25,3 +25,5 @@ pip install opencv-python
 - [[https://github.com/cryptokasten/python-opencv-read-image][Python OpenCV: Read image]]
 
 - [[https://github.com/cryptokasten/python-opencv-save-image][Python OpenCV: Save image]]
+
+- [[https://github.com/cryptokasten/python-opencv-decode-qrcode][Python OpenCV: Decode QRCode]]
